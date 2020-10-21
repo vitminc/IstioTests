@@ -1,0 +1,7 @@
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/config/KeycloakServerProperties.java
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/config/EmbeddedKeycloakApplication.java
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/config/SimplePlatformProvider.java
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/config/RegularJsonConfigProviderFactory.java
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/config/Resteasy3Provider.java
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/config/EmbeddedKeycloakConfig.java
+/home/vitaly/IstioTests/oauth-authorization-server/src/main/java/com/baeldung/auth/AuthorizationServerApp.java
